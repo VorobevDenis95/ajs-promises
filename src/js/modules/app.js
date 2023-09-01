@@ -1,4 +1,3 @@
-// eslint-disable-next-line import/extensions
 import GameSaving from './gamesaving';
 import json from './parser';
 import read from './reader';
